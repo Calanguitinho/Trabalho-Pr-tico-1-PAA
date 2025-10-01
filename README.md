@@ -44,13 +44,6 @@ Instalação das dependências:
 ```bash
 pip install pandas matplotlib
 ```
-Estrutura do Projeto
-quicksort-project/                   
-├── quicksort.py         # Implementações do Quicksort e Script principal
-├── results/                 # CSVs e gráficos gerados
-├── docs/                    # Relatório (PDF exportado do Overleaf)
-└── README.md                # Este documento
-
 Execução
 
 Para rodar todos os experimentos e gerar relatórios:
