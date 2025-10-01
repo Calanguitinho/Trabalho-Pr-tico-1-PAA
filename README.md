@@ -59,6 +59,8 @@ Sedgewick, R.; Wayne, K. Algorithms. 4ª ed. Addison-Wesley, 2011.
 Hoare, C. A. R. (1962). Quicksort. The Computer Journal, 5(1), 10–16.
 
 Weiss, M. A. Data Structures and Algorithm Analysis in C++. 4ª ed. Pearson, 2014.
+
+
 👨‍💻 Autor
 
 Fábio Wnuk Hollerbach Klier
