@@ -1,1 +1,1 @@
-# Trabalho-Pr-tico-1-PAA
+# Trabalho-Prático-1-PAA
