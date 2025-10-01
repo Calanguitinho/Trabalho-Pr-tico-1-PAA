@@ -43,20 +43,21 @@ O relatório foi produzido em **LaTeX (via Overleaf)** e contém:
 Instalação das dependências:
 ```bash
 pip install pandas matplotlib
-
+```
 Estrutura do Projeto
-quicksort-project/
-├── src/                     
-│   ├── quicksort.py         # Implementações do Quicksort
-│   ├── utils.py             # Funções auxiliares (contadores, geradores, swaps)
-│   └── experiments.py       # Execução dos experimentos
-├── main.py                  # Script principal
+quicksort-project/                   
+├── quicksort.py         # Implementações do Quicksort e Script principal
 ├── results/                 # CSVs e gráficos gerados
 ├── docs/                    # Relatório (PDF exportado do Overleaf)
-├── requirements.txt         # Dependências
 └── README.md                # Este documento
 
-Referências
+Execução
+
+Para rodar todos os experimentos e gerar relatórios:
+```
+quicksort.py
+```
+📚 Referências
 
 Cormen, T. H.; Leiserson, C. E.; Rivest, R. L.; Stein, C. Algoritmos: Teoria e Prática. 3ª ed. Elsevier, 2012.
 
